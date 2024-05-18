@@ -40,6 +40,6 @@ We currently do not welcome contributions to improve the Micro Mouse Project!.
 This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the LICENSE file for more details.
 
 # Contact
-For any questions or feedback, please contact us atMSNKAT010@myuct.ac.za or SMLPRA001@myuct.ac.za
+For any questions or feedback, please contact us at MSNKAT010@myuct.ac.za or SMLPRA001@myuct.ac.za
 
 Thank you for exploring the Micro Mouse Project! Enjoy building and programming your micro mouse
